@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background: url('/images/night.jpg');
+    background-repeat: no-repeat;
+}
+body h2{
+    width: fit-content;
+    margin: auto;
+    padding: 35px 0px;
+}
+.navbar-collapse{
+    justify-content: end;
+}
+/* .clock img{
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+#hour, #minute, #second{
+    position: absolute;
+    border-radius: 5px;
+    transform-origin: bottom;
+}
+#hour{
+    height: 42px;
+    width: 5px;
+    left: 49.8%;
+    top: 63.9%;
+    background-color: black;
+}
+#minute{
+    height: 53px;
+    width: 3px;
+    left: 49.9%;
+    top: 62.3%;
+    background-color: blue;
+} 
+#second{
+    height: 75px;
+    width: 1px;
+    left: 50%;
+    top: 59%;
+    background-color: red;
+}*/
